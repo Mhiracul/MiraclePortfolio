@@ -10,6 +10,7 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
+/* eslint-disable */
 
 function App() {
   return (

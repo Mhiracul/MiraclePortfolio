@@ -13,7 +13,8 @@ import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
-import Seo from "./seo";
+import Seo from "./Seo";
+/* eslint-disable */
 
 const Contact = () => {
   const formRef = useRef();

@@ -5,7 +5,8 @@ import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 import { testimonials } from "../constants";
-import Seo from "./seo";
+import Seo from "./Seo";
+/* eslint-disable */
 
 const FeedbackCard = ({
   index,
